@@ -65,6 +65,7 @@ include('config.php');
             <div class="row">Ngày cập nhật
                 <input type="date" placeholder="Ngày cập nhật" name="imodified_on" value="<?php echo $modified_on; ?>">
             </div>
+            <br>
                 <button class= "btn btn-primary" name="btnupdate" type="sumbit">Sửa</button>
         </form>
 </div>
